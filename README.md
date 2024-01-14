@@ -4,13 +4,13 @@ https://scp-wiki.wikidot.com/scp-999
 
 [changelog]
 
-Version 1.0.0
-  -Initial Release
-  -Changes enemy damage to 0
-  -Changes color to a light orange
+    Version 1.0.0
+    -Initial Release
+    -Changes enemy damage to 0
+    -Changes color to a light orange
 
 
-  Version 1.1.0
+    Version 1.1.0
     -increases player movement speed a little after contact is made with the blob
 
     Version 1.2.0

@@ -1,5 +1,8 @@
 Very simple mod. It changes the blob enemy in Lethal copmpany into a friendly instance of SCP-999.
+Encountering it will increase player speed for 5 seconds.
+Also, the player takes no damage.
 
+[reference]
 https://scp-wiki.wikidot.com/scp-999
 
 [changelog]
@@ -15,3 +18,7 @@ https://scp-wiki.wikidot.com/scp-999
 
     Version 1.2.0
     -fixed player speed bug
+
+    Version 1.3.0
+    -added timer of 5 seconds for player speed increase
+    -fixed player speed increase

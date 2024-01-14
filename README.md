@@ -4,7 +4,7 @@ https://scp-wiki.wikidot.com/scp-999
 
 [changelog]
 
-Version 1.0.0.0
+Version 1.0.0
   -Initial Release
   -Changes enemy damage to 0
   -Changes color to a light orange

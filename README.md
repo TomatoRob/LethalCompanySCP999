@@ -11,4 +11,7 @@ Version 1.0.0
 
 
   Version 1.1.0
-    -increases player movement speed a little aafter contact is made with the blob
+    -increases player movement speed a little after contact is made with the blob
+
+    Version 1.2.0
+    -fixed player speed bug

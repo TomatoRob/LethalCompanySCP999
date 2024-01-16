@@ -22,3 +22,6 @@ https://scp-wiki.wikidot.com/scp-999
     Version 1.3.0
     -added timer of 5 seconds for player speed increase
     -fixed player speed increase
+
+    Version 1.4.0
+    -Changed color of blob to make it look more orange

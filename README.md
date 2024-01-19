@@ -28,3 +28,6 @@ https://scp-wiki.wikidot.com/scp-999
 
     Version 1.5.0
     -Added sound effects
+
+    Version 1.6.0
+    -Bug fixes

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCP999Mod", "SCP999Mod\SCP999Mod.csproj", "{8F5E3554-359C-481E-B308-0860A9FED6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5E3554-359C-481E-B308-0860A9FED6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5E3554-359C-481E-B308-0860A9FED6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5E3554-359C-481E-B308-0860A9FED6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5E3554-359C-481E-B308-0860A9FED6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71242440-93C8-491F-B739-B15A91BFFD6D}
+	EndGlobalSection
+EndGlobal

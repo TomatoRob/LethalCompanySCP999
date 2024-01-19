@@ -25,3 +25,6 @@ https://scp-wiki.wikidot.com/scp-999
 
     Version 1.4.0
     -Changed color of blob to make it look more orange
+
+    Version 1.5.0
+    -Added sound effects
